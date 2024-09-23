@@ -1,0 +1,13 @@
+nav ul {
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+main {
+    max-width: 1200px;
+}
+
+figure {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
